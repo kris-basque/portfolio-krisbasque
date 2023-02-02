@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="366px" viewBox="0 0 560 366" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>dmzz</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.4317 0.5 45.024 0.5 45.024 107 0.4317 107"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-148.000000, -809.000000)">
+            <g id="dmzz" transform="translate(148.000000, 809.000000)">
+                <rect id="Rectangle-Copy-10" fill="#323232" x="0" y="0" width="560" height="366"></rect>
+                <g id="Group-10" transform="translate(195.000000, 130.000000)">
+                    <path d="M31.6885,24.8486 C31.6885,18.1516 28.9115,13.9046 23.0325,13.9046 L14.0465,13.9046 L14.0465,94.9236 L23.0325,94.9236 C28.9115,94.9236 31.6885,90.6766 31.6885,83.9796 L31.6885,24.8486 Z M23.0325,107.5006 L0.0005,107.5006 L0.0005,1.0006 L23.0325,1.0006 C39.2035,1.0006 45.7365,10.1476 45.7365,24.1956 L45.7365,84.3056 C45.7365,98.3536 39.2035,107.5006 23.0325,107.5006 L23.0325,107.5006 Z" id="Fill-1" fill="#FEFEFE"></path>
+                    <g id="Group-5" transform="translate(124.000000, 0.501000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-4"></g>
+                        <polygon id="Fill-3" fill="#FEFEFE" mask="url(#mask-2)" points="0.4317 107 0.4317 94.912 29.0167 13.404 1.7387 13.404 1.7387 0.5 43.5547 0.5 43.5547 13.24 14.8057 94.423 45.0247 94.423 45.0247 107"></polygon>
+                    </g>
+                    <polygon id="Fill-6" fill="#FEFEFE" points="108.0049 1.0005 103.0309 1.0005 94.7379 1.0005 81.6689 71.6445 68.5999 1.0005 55.3329 1.0005 75.0359 107.5005 88.3029 107.5005 103.0309 27.8865 103.0309 107.5005 116.2979 107.5005 116.2979 1.0005"></polygon>
+                    <path d="M55.3331,51.9219 L55.3331,107.5009 L66.1311,107.5009 L55.8401,51.8749 C55.7831,51.5689 55.3331,51.6099 55.3331,51.9219" id="Fill-8" fill="#FEFEFE"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

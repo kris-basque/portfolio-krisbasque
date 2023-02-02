@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="367px" viewBox="0 0 560 367" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>brazil-graph</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.50976 235.80048 0.50976 235.80048 275.2 0 275.2"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="brazil-graph">
+            <rect id="Rectangle-Copy-4" fill="#F5F5F5" x="0" y="0" width="560" height="367"></rect>
+            <g id="Group-2" transform="translate(137.000000, 46.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M134.29328,143.61376 L235.80048,42.10736 C210.84608,16.45296 175.96048,0.50976 137.34448,0.50976 C61.49168,0.50976 -0.00032,62.00096 -0.00032,137.85456 C-0.00032,213.70896 61.49168,275.20016 137.34448,275.20016 C173.03008,275.20016 205.53488,261.58736 229.95488,239.27616 L134.29328,143.61376 Z" id="Fill-1" fill="#5C9647" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M284.72296,137.85472 C284.72296,100.72592 270.98856,66.80672 248.32856,40.89232 L145.60696,143.61392 L242.79816,240.80432 C268.73656,214.23952 284.72296,177.91552 284.72296,137.85472" id="Fill-4" fill="#ADD69C"></path>
+                <g id="Group-4" transform="translate(177.600000, 122.109600)" fill="#FFFFFF" font-size="19.2" letter-spacing="-0.121427035">
+                    <text id="São-Paulo" font-family="Roboto-Bold, Roboto" font-weight="bold">
+                        <tspan x="0.246421659" y="20">São Paulo</tspan>
+                    </text>
+                    <text id="20%" font-family="Roboto-Light, Roboto" font-weight="300">
+                        <tspan x="28.1680781" y="38.4">20%</tspan>
+                    </text>
+                </g>
+                <text id="Brazil" font-family="Roboto-Bold, Roboto" font-size="19.2" font-weight="bold" letter-spacing="-0.121427035" fill="#FFFFFF">
+                    <tspan x="42.5549061" y="142.1096">Brazil</tspan>
+                </text>
+                <text id="80%" font-family="Roboto-Light, Roboto" font-size="19.2" font-weight="300" letter-spacing="-0.121427035" fill="#FFFFFF">
+                    <tspan x="52.9680781" y="160.5096">80%</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

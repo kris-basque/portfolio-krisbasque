@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1145px" height="531px" viewBox="0 0 1145 531" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>brazil-sp-graphic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.6372 294.7506 0.6372 294.7506 344 0 344"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="brazil-sp-graphic">
+            <rect id="Rectangle" fill="#F5F5F5" x="0" y="0" width="1145" height="531"></rect>
+            <g id="Group-3" transform="translate(646.000000, 93.363000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M167.8666,179.5172 L294.7506,52.6342 C263.5576,20.5662 219.9506,0.6372 171.6806,0.6372 C76.8646,0.6372 -0.0004,77.5012 -0.0004,172.3182 C-0.0004,267.1362 76.8646,344.0002 171.6806,344.0002 C216.2876,344.0002 256.9186,326.9842 287.4436,299.0952 L167.8666,179.5172 Z" id="Fill-1" fill="#5C9647" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M1001.9037,265.6814 C1001.9037,219.2704 984.7357,176.8714 956.4107,144.4784 L828.0087,272.8804 L949.4977,394.3684 C981.9207,361.1624 1001.9037,315.7574 1001.9037,265.6814" id="Fill-4" fill="#ADD69C"></path>
+            <rect id="Rectangle" fill="#FFDC6E" x="0" y="0" width="524" height="531"></rect>
+            <g id="Group" transform="translate(97.000000, 211.000000)" fill="#52575F" font-size="44" letter-spacing="-0.278270274">
+                <text id="50-million" font-family="Roboto-Bold, Roboto" font-weight="bold">
+                    <tspan x="136.030023" y="46">50 million</tspan>
+                </text>
+                <text id="students-in-Brazil" font-family="Roboto-Light, Roboto" font-weight="300">
+                    <tspan x="0.274940282" y="97">students in Brazil</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(868.000000, 246.000000)" fill="#FFFFFF" font-size="24" letter-spacing="-0.151783794">
+                <text id="São-Paulo" font-family="Roboto-Bold, Roboto" font-weight="bold">
+                    <tspan x="0.308027074" y="25">São Paulo</tspan>
+                </text>
+                <text id="20%" font-family="Roboto-Light, Roboto" font-weight="300">
+                    <tspan x="35.2100976" y="48">20%</tspan>
+                </text>
+            </g>
+            <text id="Brazil" font-family="Roboto-Bold, Roboto" font-size="24" font-weight="bold" letter-spacing="-0.151783794" fill="#FFFFFF">
+                <tspan x="699.193633" y="271">Brazil</tspan>
+            </text>
+            <text id="80%" font-family="Roboto-Light, Roboto" font-size="24" font-weight="300" letter-spacing="-0.151783794" fill="#FFFFFF">
+                <tspan x="712.210098" y="294">80%</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
